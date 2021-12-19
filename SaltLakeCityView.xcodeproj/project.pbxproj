@@ -13,6 +13,13 @@
 		742BC899276E1E5400D2158E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 742BC897276E1E5400D2158E /* Main.storyboard */; };
 		742BC89B276E1E5600D2158E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 742BC89A276E1E5600D2158E /* Assets.xcassets */; };
 		742BC89E276E1E5600D2158E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 742BC89C276E1E5600D2158E /* LaunchScreen.storyboard */; };
+		742BC8BA276E4BA100D2158E /* 1900.png in Resources */ = {isa = PBXBuildFile; fileRef = 742BC8B9276E4BA100D2158E /* 1900.png */; };
+		742BC8BE276E4BF200D2158E /* 1940.png in Resources */ = {isa = PBXBuildFile; fileRef = 742BC8BD276E4BF200D2158E /* 1940.png */; };
+		742BC8C0276E4C2700D2158E /* 1960.png in Resources */ = {isa = PBXBuildFile; fileRef = 742BC8BF276E4C2700D2158E /* 1960.png */; };
+		742BC8C2276E4C6000D2158E /* 1980.png in Resources */ = {isa = PBXBuildFile; fileRef = 742BC8C1276E4C6000D2158E /* 1980.png */; };
+		742BC8C4276E4C8B00D2158E /* 2000.png in Resources */ = {isa = PBXBuildFile; fileRef = 742BC8C3276E4C8B00D2158E /* 2000.png */; };
+		742BC8C6276E4CA500D2158E /* 2020.png in Resources */ = {isa = PBXBuildFile; fileRef = 742BC8C5276E4CA500D2158E /* 2020.png */; };
+		742BC8CA276E4DC900D2158E /* 1920.png in Resources */ = {isa = PBXBuildFile; fileRef = 742BC8C9276E4DC900D2158E /* 1920.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +31,13 @@
 		742BC89A276E1E5600D2158E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		742BC89D276E1E5600D2158E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		742BC89F276E1E5600D2158E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		742BC8B9276E4BA100D2158E /* 1900.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1900.png; sourceTree = "<group>"; };
+		742BC8BD276E4BF200D2158E /* 1940.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1940.png; sourceTree = "<group>"; };
+		742BC8BF276E4C2700D2158E /* 1960.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1960.png; sourceTree = "<group>"; };
+		742BC8C1276E4C6000D2158E /* 1980.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1980.png; sourceTree = "<group>"; };
+		742BC8C3276E4C8B00D2158E /* 2000.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2000.png; sourceTree = "<group>"; };
+		742BC8C5276E4CA500D2158E /* 2020.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2020.png; sourceTree = "<group>"; };
+		742BC8C9276E4DC900D2158E /* 1920.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1920.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +75,13 @@
 				742BC895276E1E5400D2158E /* ViewController.swift */,
 				742BC897276E1E5400D2158E /* Main.storyboard */,
 				742BC89A276E1E5600D2158E /* Assets.xcassets */,
+				742BC8B9276E4BA100D2158E /* 1900.png */,
+				742BC8C9276E4DC900D2158E /* 1920.png */,
+				742BC8BD276E4BF200D2158E /* 1940.png */,
+				742BC8BF276E4C2700D2158E /* 1960.png */,
+				742BC8C1276E4C6000D2158E /* 1980.png */,
+				742BC8C3276E4C8B00D2158E /* 2000.png */,
+				742BC8C5276E4CA500D2158E /* 2020.png */,
 				742BC89C276E1E5600D2158E /* LaunchScreen.storyboard */,
 				742BC89F276E1E5600D2158E /* Info.plist */,
 			);
@@ -128,6 +149,13 @@
 				742BC89E276E1E5600D2158E /* LaunchScreen.storyboard in Resources */,
 				742BC89B276E1E5600D2158E /* Assets.xcassets in Resources */,
 				742BC899276E1E5400D2158E /* Main.storyboard in Resources */,
+				742BC8C2276E4C6000D2158E /* 1980.png in Resources */,
+				742BC8BA276E4BA100D2158E /* 1900.png in Resources */,
+				742BC8C4276E4C8B00D2158E /* 2000.png in Resources */,
+				742BC8C0276E4C2700D2158E /* 1960.png in Resources */,
+				742BC8BE276E4BF200D2158E /* 1940.png in Resources */,
+				742BC8C6276E4CA500D2158E /* 2020.png in Resources */,
+				742BC8CA276E4DC900D2158E /* 1920.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,6 +315,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = G4JH3R2RUN;
@@ -294,7 +323,7 @@
 				INFOPLIST_FILE = SaltLakeCityView/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIMainStoryboardFile = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -315,6 +344,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = G4JH3R2RUN;
@@ -322,7 +352,7 @@
 				INFOPLIST_FILE = SaltLakeCityView/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIMainStoryboardFile = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
